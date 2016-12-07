@@ -1,1 +1,1 @@
-# wetlab-assistant
+# potato_pigs_analyses
